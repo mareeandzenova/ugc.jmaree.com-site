@@ -7,8 +7,12 @@ body {
 
 .container {
   max-width: 680px;
-  margin: 20vh auto;
+  margin: 0 auto;
   padding: 0 1.5rem;
+}
+
+section, header {
+  padding: 6rem 0;
 }
 
 h1 {
